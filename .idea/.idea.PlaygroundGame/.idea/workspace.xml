@@ -12,6 +12,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Features/Player/Scripts/PlayerLiveParameters.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Player/Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Core/Architecture/World.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Core/Managers/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@a832bbec7472/Shaders/2D/Sprite-Lit-Default.shader" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -96,7 +99,9 @@
       <updated>1768656070186</updated>
       <workItem from="1768656070187" duration="6000" />
       <workItem from="1768656167399" duration="33715000" />
-      <workItem from="1768832607460" duration="697000" />
+      <workItem from="1768832607460" duration="2602000" />
+      <workItem from="1768918746166" duration="33000" />
+      <workItem from="1768918791179" duration="3030000" />
     </task>
     <servers />
   </component>
